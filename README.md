@@ -132,8 +132,6 @@ Click **Publish** inside Lovable. The app is deployed to a `*.lovable.app` URL w
 
 - _Solo project_ — built by the project owner using Lovable.
 
-(Replace this section with team member names and roles if submitted as a group.)
-
 ---
 
 ## License
