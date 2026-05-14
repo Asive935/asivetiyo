@@ -128,9 +128,9 @@ Click **Publish** inside Lovable. The app is deployed to a `*.lovable.app` URL w
 
 ---
 
-## Team Members
+## Author
 
-- _Solo project_ — built by the project owner using Lovable.
+- Asive Tiyo.
 
 ---
 
